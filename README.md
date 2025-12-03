@@ -1,12 +1,9 @@
-<p align="center">
-  <!-- Banner: si subiste banner.png en /assets usa ./assets/banner.png -->
-  <img src="./assets/banner.png" alt="banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hola, soy Sofía </h1>
 
 <p align="center">
-  <strong>Actualmente estoy estudiando DAW y aprendiendo a desarrollar.</strong> 
+  <strong>Actualmente estoy estudiando DAW y creando proyectos de desarrollo.</strong> 
 </p>
 
 <p align="center">
