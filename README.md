@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Sofía </h1>
 
 <p align="center">
-  <strong>Actualmente estoy estudiando DAW y creando proyectos de desarrollo.</strong> 
+  <strong>Actualmente estoy estudiando DAW y aquí comparto mis proyectos.</strong> 
 </p>
 
 <p align="center">
