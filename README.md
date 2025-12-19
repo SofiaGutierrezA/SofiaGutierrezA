@@ -16,7 +16,7 @@
 ## Estoy aprendiendo
 - Java 
 - SQL 
-- HTML, CSS
+- HTML, CSS, JS
 - Git & GitHub
 
 ## Contacto
