@@ -3,22 +3,21 @@
 <h1 align="center">Hola, soy Sofía </h1>
 
 <p align="center">
-  <strong>Actualmente estoy estudiando DAW y aquí comparto mis proyectos.</strong> 
+  <strong>soy estudiante de grado superior en desarrollo web y aquí comparto mis proyectos.</strong> 
 </p>
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-</p>
-
-## Estoy aprendiendo
-- Java 
-- SQL 
-- HTML, CSS, JS
-- Git & GitHub
-
-## Contacto
+<h1 align="center">Sobre mi </h1>
+- Estoy aprendiendo sobre desarrollo web
 - https://www.linkedin.com/in/sofia-gutierrez-arriagada/
+
+### Tech Stack Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+
+### Tech Stack Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+
 
