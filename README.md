@@ -8,8 +8,8 @@
 
 <h1 align="center">Sobre mi </h1>
 <p>Estoy aprendiendo sobre desarrollo web</p>
-<p>Contacto: [LinkedIn](https://www.linkedin.com/in/tu-usuario)
-</p>
+Contacto: [LinkedIn](https://www.linkedin.com/in/tu-usuario)
+
 
 ## Tech Stack
 
