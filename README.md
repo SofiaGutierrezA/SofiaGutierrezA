@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Sobre mi </h1>
-<p>## Sobre mí
+<p>
 Estoy aprendiendo desarrollo web full-stack. Actualmente realizo proyectos personales para seguir aprendiendo y mejorar mis habilidades.
 </p>
 <p>Contacto: <a href="https://www.linkedin.com/in/tu-usuario">LinkedIn</a></p>
