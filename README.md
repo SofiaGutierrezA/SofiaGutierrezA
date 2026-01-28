@@ -10,14 +10,13 @@
 - Estoy aprendiendo sobre desarrollo web
 - https://www.linkedin.com/in/sofia-gutierrez-arriagada/
 
-### Tech Stack Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+## Tech Stack
 
-### Tech Stack Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=java,oracle)
+
 
 
